@@ -55,3 +55,12 @@ Simulation results confirm that the decoder produces correct segment outputs for
 - Combinational logic design using VHDL
 - Behavioral vs Structural hardware modeling
 - Functional verification with testbench
+
+---
+
+## 📊 Simulation Result
+
+Functional verification of the design is performed using a VHDL testbench.
+
+![Simulation Waveform](simulation_waveform.png)
+
